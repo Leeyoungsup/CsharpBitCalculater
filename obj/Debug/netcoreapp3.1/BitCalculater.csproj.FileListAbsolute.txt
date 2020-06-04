@@ -1,0 +1,13 @@
+C:\Users\lys\Desktop\CSharp\development_part1\BitCalculater\bin\Debug\netcoreapp3.1\BitCalculater.exe
+C:\Users\lys\Desktop\CSharp\development_part1\BitCalculater\bin\Debug\netcoreapp3.1\BitCalculater.deps.json
+C:\Users\lys\Desktop\CSharp\development_part1\BitCalculater\bin\Debug\netcoreapp3.1\BitCalculater.runtimeconfig.json
+C:\Users\lys\Desktop\CSharp\development_part1\BitCalculater\bin\Debug\netcoreapp3.1\BitCalculater.runtimeconfig.dev.json
+C:\Users\lys\Desktop\CSharp\development_part1\BitCalculater\bin\Debug\netcoreapp3.1\BitCalculater.dll
+C:\Users\lys\Desktop\CSharp\development_part1\BitCalculater\bin\Debug\netcoreapp3.1\BitCalculater.pdb
+C:\Users\lys\Desktop\CSharp\development_part1\BitCalculater\obj\Debug\netcoreapp3.1\BitCalculater.csprojAssemblyReference.cache
+C:\Users\lys\Desktop\CSharp\development_part1\BitCalculater\obj\Debug\netcoreapp3.1\BitCalculater.AssemblyInfoInputs.cache
+C:\Users\lys\Desktop\CSharp\development_part1\BitCalculater\obj\Debug\netcoreapp3.1\BitCalculater.AssemblyInfo.cs
+C:\Users\lys\Desktop\CSharp\development_part1\BitCalculater\obj\Debug\netcoreapp3.1\BitCalculater.csproj.CoreCompileInputs.cache
+C:\Users\lys\Desktop\CSharp\development_part1\BitCalculater\obj\Debug\netcoreapp3.1\BitCalculater.dll
+C:\Users\lys\Desktop\CSharp\development_part1\BitCalculater\obj\Debug\netcoreapp3.1\BitCalculater.pdb
+C:\Users\lys\Desktop\CSharp\development_part1\BitCalculater\obj\Debug\netcoreapp3.1\BitCalculater.genruntimeconfig.cache
